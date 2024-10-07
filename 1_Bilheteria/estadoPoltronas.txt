@@ -1,0 +1,37 @@
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+Fileira: 1, Coluna: 5
+Fileira: 1, Coluna: 6
+Fileira: 5, Coluna: 30
+Fileira: 1, Coluna: 9
+Fileira: 3, Coluna: 5
+Fileira: 9, Coluna: 10
+Fileira: 9, Coluna: 9
+Fileira: 5, Coluna: 5
+Fileira: 5, Coluna: 5
+Fileira: 6, Coluna: 6
+Fileira: 5, Coluna: 5
+Fileira: 5, Coluna: 5
+Fileira: 3, Coluna: 3
+Fileira: 1, Coluna: 2
+Fileira: 1, Coluna: 3
+Fileira: 1, Coluna: 4
+Fileira: 2, Coluna: 5
+Fileira: 1, Coluna: 7
+Fileira: 2, Coluna: 7
+Fileira: 3, Coluna: 7
+Fileira: 1, Coluna: 30
+Fileira: 2, Coluna: 30
+Fileira: 15, Coluna: 30
+Fileira: 1, Coluna: 35
+Fileira: 1, Coluna: 36
+Fileira: 1, Coluna: 37
+Fileira: 1, Coluna: 38

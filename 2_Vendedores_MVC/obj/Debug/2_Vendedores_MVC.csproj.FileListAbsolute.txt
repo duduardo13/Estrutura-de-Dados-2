@@ -1,0 +1,7 @@
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\2_Vendedores_MVC\bin\Debug\2_Vendedores_MVC.exe.config
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\2_Vendedores_MVC\bin\Debug\2_Vendedores_MVC.exe
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\2_Vendedores_MVC\bin\Debug\2_Vendedores_MVC.pdb
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\2_Vendedores_MVC\obj\Debug\2_Vendedores_MVC.csproj.AssemblyReference.cache
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\2_Vendedores_MVC\obj\Debug\2_Vendedores_MVC.csproj.CoreCompileInputs.cache
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\2_Vendedores_MVC\obj\Debug\2_Vendedores_MVC.exe
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\2_Vendedores_MVC\obj\Debug\2_Vendedores_MVC.pdb

@@ -1,0 +1,7 @@
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\4_Contato\bin\Debug\4_Contato.exe.config
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\4_Contato\bin\Debug\4_Contato.exe
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\4_Contato\bin\Debug\4_Contato.pdb
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\4_Contato\obj\Debug\4_Contato.csproj.AssemblyReference.cache
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\4_Contato\obj\Debug\4_Contato.csproj.CoreCompileInputs.cache
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\4_Contato\obj\Debug\4_Contato.exe
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\4_Contato\obj\Debug\4_Contato.pdb
