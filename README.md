@@ -4,3 +4,5 @@
 | Vendedores - MVC   | `./2_Vendedores_MVC`| [Repositório Vendedores](Link) | 09/09/2024      | 21/09/2024      |    Console         |
 | Cursos - MVC       | `./3_Cursos_MVC`  | [Repositório Cursos](Link) | 09/09/2024      | 23/09/2024      |    Console         |
 | Contato       | `./4_Contato`  | [Repositório Contato](Link) | 30/09/2024      | 07/10/2024      |    Console         |
+| Biblioteca         | `./5_Biblioteca`    | [Repositório Contato](Link)        | 21/10/2024              | 04/11/2024      |    Console         |
+
