@@ -1,4 +1,4 @@
-**Aluno:** Eduarod Barbosa Rodrigues
+**Aluno:** Eduardo Barbosa Rodrigues
 **Matrícula:** CB302637X
 
 # Projeto Biblioteca
