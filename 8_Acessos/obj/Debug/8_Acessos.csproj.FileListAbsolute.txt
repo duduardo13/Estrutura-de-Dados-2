@@ -1,0 +1,7 @@
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\8_Acessos\bin\Debug\8_Acessos.exe.config
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\8_Acessos\bin\Debug\8_Acessos.exe
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\8_Acessos\bin\Debug\8_Acessos.pdb
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\8_Acessos\obj\Debug\8_Acessos.csproj.AssemblyReference.cache
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\8_Acessos\obj\Debug\8_Acessos.csproj.CoreCompileInputs.cache
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\8_Acessos\obj\Debug\8_Acessos.exe
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\8_Acessos\obj\Debug\8_Acessos.pdb

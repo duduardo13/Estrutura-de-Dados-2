@@ -1,0 +1,13 @@
+[Usuarios]
+1;Alice
+2;Bob
+
+[Ambientes]
+101;Sala 1
+[Logs]
+2024-12-14 10:30:00;1;True
+2024-12-14 10:45:00;2;False
+
+102;Sala 2
+[Logs]
+2024-12-14 11:00:00;1;True
