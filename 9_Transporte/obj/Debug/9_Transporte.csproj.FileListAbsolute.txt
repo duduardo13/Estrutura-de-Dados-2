@@ -1,0 +1,7 @@
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\9_Transporte\bin\Debug\9_Transporte.exe.config
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\9_Transporte\bin\Debug\9_Transporte.exe
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\9_Transporte\bin\Debug\9_Transporte.pdb
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\9_Transporte\obj\Debug\9_Transporte.csproj.AssemblyReference.cache
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\9_Transporte\obj\Debug\9_Transporte.csproj.CoreCompileInputs.cache
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\9_Transporte\obj\Debug\9_Transporte.exe
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\9_Transporte\obj\Debug\9_Transporte.pdb
